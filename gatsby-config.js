@@ -1,7 +1,8 @@
 module.exports = {
+    pathPrefix: "/gatsbyte",
     siteMetadata: {
       title: `gatsbyte`,
-        siteUrl: `https://www.yourdomain.tld`,
+        siteUrl: `https://iaseth.github.io`,
     },
     plugins: [
 
